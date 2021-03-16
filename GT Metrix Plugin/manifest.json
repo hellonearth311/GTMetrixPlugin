@@ -6,7 +6,7 @@
   "version": "2.0",
 
   "browser_action": {
-   "default_icon": "hi.png",
+   "default_icon": "websitespeedcheck.png",
    "default_popup": "popup.html"
   },
   "permissions": [
